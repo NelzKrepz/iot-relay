@@ -3,8 +3,6 @@
 
 #include "Relay.h"
 
-const uint16_t kIrLed = 4;
-
 // Network Settings
 const char* ssid = "IoT-Relay";
 const char* password = "12345678";
